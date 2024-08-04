@@ -1,2 +1,1 @@
-# Tresenraya
-Es un modelo del juego de tres en raya
+# This is a model of the "tres en raya" games
